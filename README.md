@@ -5,7 +5,7 @@
     </a>
   </p>
   <p align="center">
-    The Definitive Django Learning Platform.
+    DEEP THANKI
   </p>
 </p>
 
